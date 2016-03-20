@@ -1,0 +1,19 @@
+{
+  "name": "anubis-broker",
+  "version": "0.0.1",
+  "description": "A simple websocket bridge for Anubis clients.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sbekti/anubis-broker.git"
+  },
+  "author": "Samudra Harapan Bekti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sbekti/anubis-broker/issues"
+  },
+  "homepage": "https://github.com/sbekti/anubis-broker#readme"
+}
